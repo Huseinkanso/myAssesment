@@ -1,0 +1,7 @@
+D:\courses\myAssesment\myAssesment\obj\Debug\myAssesment.csproj.AssemblyReference.cache
+D:\courses\myAssesment\myAssesment\obj\Debug\myAssesment.csproj.CoreCompileInputs.cache
+D:\courses\myAssesment\myAssesment\bin\Debug\myAssesment.exe.config
+D:\courses\myAssesment\myAssesment\bin\Debug\myAssesment.exe
+D:\courses\myAssesment\myAssesment\bin\Debug\myAssesment.pdb
+D:\courses\myAssesment\myAssesment\obj\Debug\myAssesment.exe
+D:\courses\myAssesment\myAssesment\obj\Debug\myAssesment.pdb

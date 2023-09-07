@@ -1,0 +1,21 @@
+﻿@model Info 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form asp-action="Index" asp-controller="Home" method="post" class="form-control" enctype="multipart/form-data">
+        s
+       <label class="form-label">enter a text:</label>
+       <input asp-for="text" type="text" class="form-control" />
+       <p>Or upload a file containing the information :</p>
+       <input asp-for="file" type="file" />
+       <input type="submit" class="btn btn-primary" value="submit" />
+   </form>
+   <h1>Content:</h1>
+   <!-- output text -->
+   <p>
+       @Model.text
+   </p>
+
+</div>

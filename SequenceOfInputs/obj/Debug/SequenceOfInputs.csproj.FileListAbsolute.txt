@@ -1,0 +1,7 @@
+D:\courses\myAssesment\SequenceOfInputs\bin\Debug\SequenceOfInputs.exe.config
+D:\courses\myAssesment\SequenceOfInputs\bin\Debug\SequenceOfInputs.exe
+D:\courses\myAssesment\SequenceOfInputs\bin\Debug\SequenceOfInputs.pdb
+D:\courses\myAssesment\SequenceOfInputs\obj\Debug\SequenceOfInputs.csproj.AssemblyReference.cache
+D:\courses\myAssesment\SequenceOfInputs\obj\Debug\SequenceOfInputs.csproj.CoreCompileInputs.cache
+D:\courses\myAssesment\SequenceOfInputs\obj\Debug\SequenceOfInputs.exe
+D:\courses\myAssesment\SequenceOfInputs\obj\Debug\SequenceOfInputs.pdb

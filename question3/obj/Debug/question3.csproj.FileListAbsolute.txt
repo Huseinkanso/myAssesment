@@ -1,0 +1,7 @@
+D:\courses\myAssesment\question3\bin\Debug\question3.exe.config
+D:\courses\myAssesment\question3\bin\Debug\question3.exe
+D:\courses\myAssesment\question3\bin\Debug\question3.pdb
+D:\courses\myAssesment\question3\obj\Debug\question3.csproj.AssemblyReference.cache
+D:\courses\myAssesment\question3\obj\Debug\question3.csproj.CoreCompileInputs.cache
+D:\courses\myAssesment\question3\obj\Debug\question3.exe
+D:\courses\myAssesment\question3\obj\Debug\question3.pdb
